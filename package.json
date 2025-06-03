@@ -1,0 +1,19 @@
+{
+  "name": "folder-sync",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "chalk": "^5.4.1",
+    "chokidar": "^4.0.3",
+    "fs-extra": "^11.3.0",
+    "ssh2-sftp-client": "^12.0.0",
+    "yargs": "^18.0.0"
+  }
+}
